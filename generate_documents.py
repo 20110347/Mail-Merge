@@ -187,8 +187,8 @@ def generate_mails(recipient, fullTemplate):
         email=recipient['email'],
         edad=edadC,))
         
-    password = "vvqaqdkqugcfqqfu"
-    msg['From'] = "pyrop59@gmail.com"
+    password = " PASSWORD OF YOUR GMAIL "
+    msg['From'] = " TYPE YOUR EMAIL HERE "
     msg['To'] = recipient['email']
     msg['Subject'] = file_string + "Renuncia, IF YOU SEE THIS MESSAGE, Its a homework for my school"
     msg.set_content(message)
