@@ -1,0 +1,21 @@
+Queridos inútiles de {empresa}: 
+
+Con dirección en {calle}, #{noExt} Ext, #{noInt} Int, en {colonia} con C.P.:{cp}
+en el municipio de {mun} del estado de {estado}
+
+Con gran disgusto les informo que he decidido renunciar a mi puesto de {cargo} en esta mediocre
+compañia. No me sorprende que no hayan sido capaces de valorar mi talento y habilidades,
+dado su evidente déficit cognitivo.
+
+Si tuviera que elegir entre trabajar aquí o arrancarme los ojos con una cuchara,
+definitivamente elegiría la segunda opción.
+
+No les deso nada más que fracaso y ruina en su futuro.
+
+Atentamente. {apellido1}, {apellido2}, {nombre}
+
+Info. de Contacto.
+Telefono: {tel}
+Correo: {email}
+Naci en: {fn}
+Con edad de: {edad}
